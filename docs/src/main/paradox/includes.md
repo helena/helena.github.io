@@ -6,6 +6,7 @@
 * [The Society for Conservation Biology](https://conbio.org)
 * [Arctic Research Consortium of the United States](https://www.arcus.org) 
 * [The Association for the Advancement of Artificial Intelligence](https://www.aaai.org) 
+* [British Ecological Society](https://www.britishecologicalsociety.org)
 * [The Wildlife Society](https://wildlife.org)
 * [The Oregon Chapter of the Wildlife Society](http://ortws.org)
 * [American Society of Mammalogists](https://www.mammalsociety.org)
@@ -23,7 +24,8 @@
 * <a href="https://www.worldwildlife.org">World Wildlife Fund</a>
 * <a href="https://www.peta.org">PETA</a>
 * Endangered Species Coalition
-* African Wildlife 
+* International Anti-Poaching Foundation
+* African Wildlife Foundation
 
 @@@  
 <!--- #supporter --->
