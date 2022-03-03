@@ -12,7 +12,7 @@ object Paradox {
 
   val propertiesSettings = Seq(
     Compile / paradoxProperties ++= Map(
-        "project.description" -> "Helena Edelson: researcher & hactivist: complex adaptive systems, endangered species, wildlife biology & climate change.",
+        "project.description" -> "Helena Edelson: wildlife conservation hactivist: complex adaptive systems, endangered species, wildlife biology & climate change.",
         "canonical.base_url" -> "http://complex-human.com/", // TODO https
         "github.base_url" -> GitHub.url(version.value), // for links like this: @github[#1](#1) or @github[83986f9](83986f9)
         "image.base_url" -> ".../assets/images",

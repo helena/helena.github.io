@@ -11,7 +11,7 @@ as a music major. Studying music and performing in ensembles developed her aware
 She soon switched to earn a Bachelor's degree focusing around ecology, energy pathways in systems and engineering sustainable biological systems. 
 After earning her degree, Helena moved up to Fairbanks, Alaska to continue her academic research and study Arctic Wolves and their ecosystem. 
 She unexpectedly spent a few years doing @ref:[expeditions and ultra-marathon races in the sub-arctic and other areas around the world](adventure.md).
- 
+<img src="../images/IMG_3741.JPG"/> 
 In 2001 she began her [software engineering career](www.linkedin.com/in/helenaedelson). Formerly a Principal Engineer at Lightbend and member 
 of the [Akka](https://akka.io) team, she worked on all areas of Akka but mainly cluster; 
 at Apple as Senior Software Engineer working on distributed data, analytics and machine learning at massive scale;

@@ -1,4 +1,6 @@
-addSbtPlugin("com.lightbend.paradox" % "sbt-paradox" % "0.8.0")
-addSbtPlugin("com.lightbend.paradox" % "sbt-paradox-apidoc" % "0.9")
+addSbtPlugin("com.lightbend.paradox" % "sbt-paradox" % "0.9.2")
+addSbtPlugin("com.lightbend.paradox" % "sbt-paradox-apidoc" % "0.10")
 addSbtPlugin("com.lightbend.paradox" % "sbt-paradox-project-info" % "1.1.4")
+addSbtPlugin("com.lightbend.paradox" % "sbt-paradox-theme" % "0.9.2")
 addSbtPlugin("org.jmotor.sbt" % "sbt-dependency-updates" % "1.2.2")
+addSbtPlugin("de.heikoseeberger" % "sbt-header" % "5.6.0")
