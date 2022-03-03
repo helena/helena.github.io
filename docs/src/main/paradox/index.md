@@ -5,10 +5,11 @@ project.description: If done properly, ideas and solutions for positive change c
 
 ## Trophic cascade
 ```
-"It is like kicking a pebble down a mountain slope, where conditions were just right 
- that...a pebble could trigger an avalanche of change."
-
-– Doug Smith, wildlife biologist in charge of the Yellowstone Wolf Project 
+"It is like kicking a pebble down a mountain slope, where if conditions were just right
+ a pebble could trigger an avalanche of change."
+– Doug Smith, Senior Wildlife Biologist 
+  Yellowstone National Park 
+  and Project Leader for the Yellowstone Wolf Project
 ```
  
 @@toc { depth=2 }
@@ -17,7 +18,7 @@ project.description: If done properly, ideas and solutions for positive change c
  
 * @ref:[research](index-research.md)
 * @ref:[about](index-about.md)
-* @ref:[work](index-professional.md) 
+* @ref:[professional](index-professional.md) 
 * @ref:[posts](index-posts.md)
  
 @@@
